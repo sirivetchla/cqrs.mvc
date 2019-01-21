@@ -1,0 +1,16 @@
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\Hotel.CQRS.Configuration.dll
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\Hotel.CQRS.Configuration.pdb
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\Hotel.CQRS.dll
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\StructureMap.dll
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\StructureMap.Net4.dll
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\System.Web.Mvc.dll
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\Hotel.CQRS.pdb
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\StructureMap.pdb
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\StructureMap.xml
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\StructureMap.Net4.pdb
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\bin\Debug\System.Web.Mvc.xml
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\obj\Debug\Hotel.CQRS.Configuration.csprojAssemblyReference.cache
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\obj\Debug\Hotel.CQRS.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\obj\Debug\Hotel.CQRS.Configuration.csproj.CopyComplete
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\obj\Debug\Hotel.CQRS.Configuration.dll
+C:\Users\vetch\source\repos\HotelReservationSystem\Hotel.CQRS.Configuration\obj\Debug\Hotel.CQRS.Configuration.pdb

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Room No</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone Number</th>
+            <th>Check In</th>
+            <th>Check Out</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.Model)
+        {
+            <tr>
+                <th scope="row">@item.RoomNo</th>
+                <td>@item.CustomerName</td>
+                <td>@item.Email</td>
+                <td>@item.PhoneNo</td>
+                <td>@item.CheckIn</td>
+                <td>@item.CheckOut</td>
+                <td>@Html.ActionLink("Check In", "RoomCheckedIn", new { id = item.Id }, new { Style = "color:Green" })</td>
+                <td>@Html.ActionLink("Delete", "RoomCancel", new { id = item.Id }, new { Style = "color:Red" })</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Create New", "RoomBook")
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script type="text/javascript">
+$(function () {
+    var msg = '@ViewData["message"]';
+   
+
+
+});
+</script>
+
+
